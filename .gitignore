@@ -1,0 +1,62 @@
+# Diretórios e arquivos gerados pelo Visual Studio
+.vscode/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Arquivos de log
+*.log
+
+# Diretórios do sistema de build
+*.DS_Store
+*.tmproj
+*.swp
+
+# Arquivos de configuração de build
+*.vcxproj.user
+*.vcxproj.filters
+*.csproj.user
+
+# Diretórios do pacote NuGet
+packages/
+*.nupkg
+*.nuspec
+
+# Arquivos de lock de pacote
+project.lock.json
+project.fragment.lock.json
+
+# Arquivos de configuração de usuário
+*.psess
+*.psesshost
+
+# Diretórios e arquivos gerados pelo sistema
+thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Arquivos de cache
+.cache/
+npm-debug.log
+
+# Diretórios do banco de dados
+migrations/
+
+# Diretórios de publicação
+publish/
+
+# Arquivos temporários
+.tmp/
+
+# Arquivos de configuração específicos do ambiente
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
+appsettings.Staging.json
+
+# Arquivos do Rider
+.idea/
+*.sln.iml
